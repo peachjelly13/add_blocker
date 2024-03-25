@@ -1,0 +1,8 @@
+{
+    "name":"Add_Blocker",
+    "version":"1.0",
+    "description":"Personal Add Blocker",
+    "permissions":["webRequest","webRequestBlocking","<all_urls>"]
+
+
+}
